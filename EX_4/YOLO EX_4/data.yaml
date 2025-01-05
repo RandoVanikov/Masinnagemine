@@ -1,0 +1,13 @@
+train: C:/Users/Dell/PycharmProjects/Masinnagemine/YOLO EX_4
+val: C:/Users/Dell/PycharmProjects/Masinnagemine/YOLO EX_4
+test: C:/Users/Dell/PycharmProjects/Masinnagemine/YOLO EX_4
+
+nc: 4
+names: ['coin', 'nail', 'nut', 'screw']
+
+roboflow:
+  workspace: guilherme-dos-santos-novak-kjqca
+  project: coins-detection-cxmsx
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/guilherme-dos-santos-novak-kjqca/coins-detection-cxmsx/dataset/1
